@@ -2,6 +2,10 @@
 
 A new Flutter application to test provider
 
+## Screenshot
+
+![18837903 (1)](https://user-images.githubusercontent.com/32338891/102336971-2c8ac880-3f92-11eb-9d04-d539cdaad49e.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
